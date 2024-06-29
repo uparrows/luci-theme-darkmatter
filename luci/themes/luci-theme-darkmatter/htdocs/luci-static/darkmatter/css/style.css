@@ -183,7 +183,7 @@ footer {
 .cbi-section-table-cell,
 .cbi-section-table-row,
 .main>.loading>span {
-    text-align: -webkit-right;
+    text-align: center
 }
 
 .main-right,
@@ -368,6 +368,12 @@ h2>a:hover {
 
 .main>.main-left>.nav>li:nth-last-child(1) a {
     text-decoration: none
+    padding-left: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 1.1rem;
+    line-height: 42px;
+    height: 42px
 }
 
 .main>.main-left>.nav>li {
@@ -717,6 +723,7 @@ header>.container>.pull-right>* {
 .cbi-button+.cbi-button,
 form.inline+form.inline {
     margin-left: .3rem;
+    margin-top: .3rem
 }
 
 .cbi-button-reset,
