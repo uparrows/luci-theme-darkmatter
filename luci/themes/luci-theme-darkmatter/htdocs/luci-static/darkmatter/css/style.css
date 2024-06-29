@@ -650,7 +650,7 @@ td>table>tbody>tr>td {
 
 .cbi-button {
     height: 1.65rem;
-    margin-top: -0.35rem;
+    margin-top: 0.4rem;
     -webkit-appearance: none;
     display: inline-block;
     cursor: pointer;
