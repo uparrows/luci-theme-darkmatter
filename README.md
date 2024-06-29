@@ -1,7 +1,7 @@
 Darkmatter theme for LuCI (LEDE/OpenWRT)
 ========================================
 
-修复老牌主题Darkmatter在新版lede上布局错位的问题，适配最新lede OpenWrt R23 。
+修复老牌主题Darkmatter在新版lede上布局错位的问题，适配最新lede OpenWrt R24 。
 
 截图
 ----------
