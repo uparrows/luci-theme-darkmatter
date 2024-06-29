@@ -183,7 +183,7 @@ footer {
 .cbi-section-table-cell,
 .cbi-section-table-row,
 .main>.loading>span {
-    text-align: center
+    text-align: -webkit-right;
 }
 
 .main-right,
@@ -717,7 +717,6 @@ header>.container>.pull-right>* {
 .cbi-button+.cbi-button,
 form.inline+form.inline {
     margin-left: .3rem;
-    margin-top: .3rem
 }
 
 .cbi-button-reset,
