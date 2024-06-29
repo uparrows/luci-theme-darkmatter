@@ -39,6 +39,7 @@ table {
 .cbi-value-helpicon,
 .main>.loading>span,
 .showSide {
+    font-family: 'icomoon', Roboto !important;
     speak: none;
     font-style: normal !important;
     font-weight: 400 !important;
@@ -723,7 +724,6 @@ header>.container>.pull-right>* {
 .cbi-button+.cbi-button,
 form.inline+form.inline {
     margin-left: .3rem;
-    margin-top: .3rem
 }
 
 .cbi-button-reset,
@@ -1263,7 +1263,7 @@ svg {
 div.cbi-value var,
 td.cbi-value-field var {
     font-style: italic;
-    color: #0069D6
+    color: #4f4e4a
 }
 
 small {
